@@ -1,0 +1,4 @@
+baseURL = "https://blog.mem89.de"
+languageCode = "de"
+title = "Public Notes"
+theme = "ananke"
