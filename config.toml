@@ -1,4 +1,4 @@
 baseURL = "https://passierschein-a38.net"
 languageCode = "de"
 title = "Passierschein A38"
-theme = "ananke"
+theme = "a38"
