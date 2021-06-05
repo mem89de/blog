@@ -1,7 +1,7 @@
-baseURL = "https://passierschein-a38.net"
+baseURL = "https://www.meierabend.de"
 languageCode = "de-de"
-title = "Passierschein A38"
-theme = "a38"
+title = "Meierabend"
+theme = "meierabend"
 
 sectionPagesMenu = "main"
 pluralizelisttitles = false

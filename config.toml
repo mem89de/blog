@@ -1,0 +1,4 @@
+baseURL = "https://www.meierabend.de"
+languageCode = "de"
+title = "Meierabend"
+theme = "ananke"

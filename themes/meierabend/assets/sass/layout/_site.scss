@@ -1,0 +1,19 @@
+* {
+  color: $font_color;
+  font-family: sans-serif;
+}
+
+body {
+  padding: 3em;
+}
+
+a {
+
+  &:link, &:visited {
+      color: $font_color;
+  }
+
+  &:hover, &:active {
+    color: $font_color;
+  }
+}
