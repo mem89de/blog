@@ -5,3 +5,6 @@ theme = "meierabend"
 
 sectionPagesMenu = "main"
 pluralizelisttitles = false
+
+[markup.goldmark.renderer]
+unsafe= true
