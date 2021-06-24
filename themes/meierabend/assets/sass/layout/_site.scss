@@ -4,7 +4,11 @@
 }
 
 body {
-  padding: 3em;
+  padding: 0 4em;
+}
+
+div#content {
+  max-width: 60rem;
 }
 
 a {

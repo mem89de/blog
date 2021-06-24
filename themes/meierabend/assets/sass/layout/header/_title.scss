@@ -1,8 +1,6 @@
 h1#site-title {
-  display: inline;
   a {
     &:link, &:visited, &:hover, &:active {
-      color: $navigation_link;
       display:inline;
       text-decoration: none;
     }
